@@ -1,163 +1,217 @@
-# Praveen Gour | ESG & Sustainability Portfolio
+# 🌍 Praveen Gour | ESG & Sustainability Portfolio
 
-Welcome to my GitHub portfolio repository.
+Turning ESG insights into business strategy, risk assessment, and decarbonization action.
 
-This repository contains my ESG, sustainability, climate strategy, and business analysis projects, including dashboards, case studies, research work, and self-driven consulting-style projects.
+This repository showcases my ESG, sustainability, climate strategy, and reporting projects developed through consulting simulations, framework analysis, and independent research.
 
-I am currently building hands-on experience in the ESG and sustainability domain through practical projects focused on sustainability analytics, climate strategy, emissions analysis, and sustainable business transformation.
+My work focuses on translating sustainability concepts into structured business analysis across:
+- Climate & Decarbonization Strategy
+- ESG Due Diligence
+- Sustainability Reporting
+- GHG Accounting
+- Sustainable Finance
+- ESG Data & Dashboarding
 
-# About Me
+---
 
-I am Praveen Gour, a professional with a background in international business, exports, sales, and market research.
+# 👨‍💼 About Me
 
-My growing interest in sustainability and ESG led me to transition toward the sustainability field, where I am actively developing practical skills through independent projects, research, and real-world case studies.
+I am an aspiring ESG & Sustainability professional with 3+ years of experience in international business, export operations, and client coordination across global markets.
 
-My interests include:
+Through my work in supply chains, compliance-related documentation, and international customer management, I gained exposure to operational and sustainability-related business challenges across sourcing, logistics, reporting, and stakeholder engagement.
 
-ESG Analysis
-Sustainability Consulting
-Climate Strategy
-Decarbonization
-Sustainable Supply Chains
-ESG Reporting
-Business & Market Research
-Sustainability Data Analytics
+I am now transitioning into ESG and sustainability through:
+- Consulting-style sustainability simulations
+- ESG framework application
+- Climate strategy projects
+- Reporting analysis
+- Sustainability research
+- ESG data visualization
+
 ---
 
 # 📂 Portfolio Projects
 
-## 1. GHG Emissions Dashboard
+## 1. BCG Climate & Sustainability Simulation
+### Climate & Decarbonization Strategy Development
 
-A Power BI dashboard project focused on greenhouse gas emissions analysis.
+Developed a practical and financially grounded decarbonization roadmap for an industrial client facing climate transition pressure.
 
-### Features
-- Scope 1, 2, and 3 emissions tracking
-- Emissions trend analysis
-- Business unit comparison
-- Carbon footprint insights
-- Identification of reduction opportunities
-
-### Tools Used
-- Power BI
-- Excel
-- Data Cleaning
-- Data Visualization
-
----
-
-## 2. Decarbonization Strategy Case Study
-
-A consulting-style sustainability case study focused on climate transition and emissions reduction strategies.
-
-### Covered Areas
-- GHG baseline assessment
+### Key Areas
+- Scope 1, 2 & 3 GHG baseline analysis
+- Emissions hotspot mapping
+- Marginal Abatement Cost Curve (MACC)
 - Industry benchmarking
-- Transition risks and opportunities
-- Cost-benefit analysis
+- Transition risk assessment
 - Decarbonization roadmap development
 
-### Key Topics
-- Net Zero Strategy
-- Climate Transition Planning
-- Sustainability Risk Assessment
-- ESG Strategy
+### Focus Areas
+- Climate Strategy
+- Net Zero Planning
+- Abatement Analysis
+- ESG Risk Assessment
 
 ---
 
-## 3. ESG Research Projects
+## 2. ACCA Sustainability Banking Simulation
+### ESG Due Diligence & Sustainable Finance
 
-Research-based projects exploring ESG trends, sustainability frameworks, regulations, and corporate sustainability strategies.
+Conducted ESG risk assessment and Sustainability-Linked Loan (SLL) structuring for a palm oil producer facing supply chain scrutiny.
 
-### Topics Covered
-- PPWR Regulation
-- Sustainable Packaging
-- ESG Trends
-- Sustainability Reporting
-- Circular Economy
-- Sustainable Supply Chains
+### Key Areas
+- Environmental & social risk analysis
+- ESG due diligence
+- KPI & SPT design
+- Governance and audit scope
+- Sustainable finance mechanisms
 
----
-
-## 4. Market Research & Business Analysis
-
-Projects focused on business research, international markets, export analysis, and strategic insights.
-
-### Areas Covered
-- Market Analysis
-- Competitive Benchmarking
-- Export Research
-- Business Strategy
-- Industry Trends
+### Focus Areas
+- Sustainable Finance
+- ESG Risk Management
+- Supply Chain ESG
+- ESG Governance
 
 ---
 
-# 🛠️ Skills
+## 3. TCS ESG Digital Transformation Simulation
+### ESG Gap Assessment & Digital Sustainability Solutions
+
+Performed ESG capability gap analysis for a higher-education institution and mapped digital sustainability solutions to operational challenges.
+
+### Key Areas
+- ESG capability assessment
+- Energy & emissions visibility
+- Water management analysis
+- Digital sustainability solution mapping
+- Comparative solution fitment matrix
+
+### Focus Areas
+- Digital ESG
+- ESG Transformation
+- Sustainability Operations
+- Smart Infrastructure
+
+---
+
+## 4. ESG Reporting & Framework Analysis
+
+Conducted ESG disclosure reviews and framework analysis using:
+- GRI Standards
+- BRSR
+- SASB
+- IFRS S1 & S2
+
+### Included Work
+- Materiality analysis
+- Disclosure gap assessment
+- Sustainability report review
+- ESG KPI evaluation
+- Financial materiality interpretation
+
+### Companies Reviewed
+- Wipro
+- HUL
+- Vale
+
+---
+
+# 📊 Technical & ESG Skills
 
 ## ESG & Sustainability
-- ESG Analysis
+- Scope 1–3 GHG Accounting
+- ESG Reporting Analysis
+- Materiality Assessment
+- Climate Transition Risk
 - Sustainability Strategy
-- Climate Risk Analysis
-- Carbon Accounting Basics
-- ESG Reporting
-- Decarbonization Planning
+- Sustainable Finance Concepts
+- ESG Due Diligence
 
-## Business & Research
-- Market Research
-- International Business
-- Export Operations
-- Business Development
-- Strategic Analysis
+## Frameworks & Standards
+- GRI
+- SASB
+- IFRS S1 & S2
+- BRSR
+- GHG Protocol
+- UN SDGs
 
-## Technical Skills
+## Analytics & Tools
 - Power BI
-- Microsoft Excel
+- Excel
+- PowerPoint
+- ESG Dashboards
 - Data Visualization
-- GitHub
-- Notion
-- Canva
-- AI Productivity Tools
+- Market Research
 
 ---
 
-# 📜 Certifications & Learning
+# 💼 Professional Experience
 
-Completed certifications and learning programs from:
-- Coursera
-- LinkedIn Learning
-- BCG Climate & Sustainability Consulting Simulation
+## International Sales Executive
+### Gujarat Craft Industries Limited | Ahmedabad, India
 
-### Topics Studied
-- ESG Fundamentals
-- Corporate Sustainability
-- Sustainability Consulting
-- Sustainable Supply Chains
-- ESG Finance
-- Climate Leadership
-- ESG Risks & Opportunities
+- Generated $200K+ monthly revenue through international business development
+- Managed B2B export operations across Europe, Africa, and the Middle East
+- Supported EcoVadis and UNGC reporting processes
+- Conducted market research and client engagement activities
+- Managed long-term international customer relationships
+
+This experience strengthened my understanding of:
+- Supply chains
+- Vendor coordination
+- International compliance expectations
+- Sustainability-related operational challenges
+
+---
+
+# 📚 Certifications & Learning
+
+### Completed Learning Programs
+- Introduction to ESG - Coursera
+- ESG Fundamentals for Financial Decision-Making - LinkedIn Learning
+- Sustainability Consulting - Coursera
+- ESG Disclosures & Compliance - - Coursera
+- IFRS Sustainability Disclosure Standards - IFRS Official
 
 ---
 
 # 🎯 Current Focus
 
-Currently focused on:
-- Building ESG portfolio projects
-- Sustainability analytics
-- Climate and decarbonization case studies
-- ESG dashboards
-- Sustainability research
-- Building a professional ESG presence on LinkedIn
+Currently focused on building:
+- ESG analytical capabilities
+- Climate strategy case studies
+- Sustainability dashboards
+- ESG reporting analysis
+- Decarbonization frameworks
+- Consulting-style sustainability projects
+
+Career interests:
+- ESG Analyst
+- Sustainability Consultant
+- Climate Strategy Analyst
+- ESG Reporting & Research
 
 ---
 
 # Connect With Me
 
 ## LinkedIn
-[Add Your LinkedIn Profile Link]
+www.linkedin.com/in/praveengour
 
 ## Email
-[Add Your Professional Email]
+praveengour2103@gmail.com
 
-Repository Purpose
+---
 
-The goal is to continuously improve my analytical, strategic, and sustainability consulting skills while building a strong portfolio of real-world ESG projects.
-Thank you for visiting this repository.
+# Repository Purpose
+
+This repository represents my transition from international business into ESG and sustainability through practical, project-based learning and analytical work.
+
+The objective is to continuously build real-world ESG problem-solving capabilities through:
+- structured case studies
+- reporting analysis
+- climate strategy simulations
+- sustainability research
+- ESG data storytelling
+
+---
+Thank you for visiting my portfolio repository.
